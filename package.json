@@ -10,8 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.101.4",
+    "@tanstack/react-router": "^1.170.30",
+    "@tanstack/router-devtools": "^1.167.1",
+    "axios": "^1.19.0",
+    "date-fns": "^4.4.0",
     "react": "^19.2.8",
-    "react-dom": "^19.2.8"
+    "react-dom": "^19.2.8",
+    "react-hook-form": "^7.85.0"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
